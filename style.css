@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-image {
+    height: 80px;
+    width: 80px;
+}
+
+.second-con {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.para {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.button1 {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+}
+
+.button2 {
+    color: #d0b200;
+    border-color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+}
+
+.choose-section {
+    background-color: #f9fbfe;
+}
+
+.heading1 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.para1 {
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.image1 {
+    height: 80px;
+    width: 80px;
+}
+
+.con1 {
+    background-color: white;
+    border-radius: 25px;
+}
+
+.small-heading1 {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.para2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.offers {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.explore-menu {
+    background-color: white;
+}
+
+.menu-item {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.menu-dish {
+    border-radius: 15px;
+}
+
+.menu-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.view-all {
+    color: #f7b816;
+}
+
+.health-food {
+    background-color: #f9fbfe;
+}
+
+.health-food-img {
+    width: 300px;
+}
+
+.health-heading {
+    color: #103063;
+    font-size: 35px;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.health-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    margin: 10px;
+    height: 42px;
+    border-radius: 6px;
+}
+
+.health-para {
+    padding: 10px;
+    color: grey;
+}
+
+.payment-card {
+    width: 60px;
+    margin: 15px;
+}
+
+.gift-con {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.follow-us {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #2a139e;
+}
+
+.icons {
+    background-color: #faf7e8;
+    height: 80px;
+    width: 80px;
+    padding: 20px;
+    border-radius: 40px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.icons {
+    font-size: 40px;
+    color: #d0b200;
+}
+
+
+.contact-us {
+    background-color: #0d2436;
+    color: #959ead;
+}
